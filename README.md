@@ -1,2 +1,2 @@
 # ZhiliChengBarcuch
-This is the homehork assigned by Baruch C++ Programming Course
+This is the homework assigned by Baruch C++ Programming Course
