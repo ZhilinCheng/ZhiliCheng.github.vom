@@ -1,2 +1,2 @@
-# ZhiliChengBarcuch
+# ZhiliChengBaruch
 This is the homework assigned by Baruch C++ Programming Course
